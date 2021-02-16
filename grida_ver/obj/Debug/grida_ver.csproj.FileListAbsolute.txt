@@ -1,0 +1,14 @@
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Main_Start.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Devices.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Device_Connect.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Attach.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Main_Process.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Floder.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.Properties.Resources.resources
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.csproj.GenerateResource.cache
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.csproj.CoreCompileInputs.cache
+C:\Users\skand\Desktop\grida_ver.exe.config
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.exe
+C:\Users\skand\Desktop\grida_ver\obj\Debug\grida_ver.pdb
+C:\Users\skand\Desktop\grida_ver.exe
+C:\Users\skand\Desktop\grida_ver.pdb
